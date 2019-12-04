@@ -1,0 +1,16 @@
+{
+    "name": "oldman/moban3",
+    "description": "dev",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "oldman",
+            "email": "379533792@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "gregwar/captcha": "dev-master"
+    }
+}
